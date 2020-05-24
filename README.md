@@ -1,2 +1,2 @@
 # hello-world
-A INFS7901 Test Repository
+A INFS7901 Testing Repository 
